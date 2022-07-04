@@ -12,9 +12,9 @@
 
 :root {
 
-    --color-bg: #183152;
-    --color-bg-variant: #375D81;
-    --color-primary: #ABC8E2;
+    --color-bg: #1b1b1e;
+    --color-bg-variant: #79717A;
+    --color-primary: #A68F97;
 
     /* --color-bg: #1f1f38;
     --color-bg-variant: #2c2c6c;
@@ -44,7 +44,8 @@ body {
     background: var(--color-bg);
     color: var(--color-white);
     line-height: 1.7;
-    background-image: url(../src/assets/bg-texture.png);
+    /* =============== Tạo vân cho background ================== 
+    background-image: url(../src/assets/bg-texture.png);*/
 }
 
 /* =============== Genaral Style ================== */

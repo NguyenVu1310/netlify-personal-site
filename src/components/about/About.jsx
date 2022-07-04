@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/me-about.png'
 import { FaAward } from 'react-icons/fa'
 import { TbCertificate } from 'react-icons/tb'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -35,7 +35,7 @@ const About = () => {
                         <article className='about__card'>
                             <VscFolderLibrary className='about__icon' />
                             <h5>Projects</h5>
-                            <small>+2 Completed</small>
+                            <small>+4 Completed</small>
                         </article>
                     </div>
 

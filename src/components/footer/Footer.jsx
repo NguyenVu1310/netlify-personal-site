@@ -7,7 +7,10 @@ import { AiOutlineYoutube } from 'react-icons/ai'
 import { AiOutlineSkype } from 'react-icons/ai'
 import { RiDiscordLine } from 'react-icons/ri'
 import { ImBlogger2 } from 'react-icons/im'
-
+/**
+ * Thêm link tại footer dòng 26
+ * <li><a href="#testimonials">Testimonials</a></li>
+ */
 
 const Footer = () => {
     return (
@@ -20,7 +23,7 @@ const Footer = () => {
                 <li><a href="#experience">Experience</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#testimonials">Testimonials</a></li>
+
                 <li><a href="#contact">Contact</a></li>
             </ul>
 
@@ -34,7 +37,7 @@ const Footer = () => {
             </div >
 
             <div className="footer__copyright">
-                <small>&copy; <b><a href="#https://www.linkedin.com/in/nguyenvu2608/">nguyenvu</a></b>. All rights reserved.</small>
+                <small>&copy; <b><a href="https://www.linkedin.com/in/nguyenvu2608/">nguyenvu</a></b>. All rights reserved.</small>
             </div>
         </footer >
     )

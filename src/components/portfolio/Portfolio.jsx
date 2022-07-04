@@ -4,8 +4,6 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 //Do not use the images in production
 const data = [
@@ -20,22 +18,22 @@ const data = [
         id: 2,
         image: IMG2,
         title: 'My Personal Portfolio Website uses React and is deployed on Netlify.',
-        github: 'https://github.com/nguyenvu1310',
-        demo: 'https://github.com/nguyenvu1310',
+        github: 'https://github.com/NguyenVu1310/netlify-personal-site',
+        demo: 'https://nguyenvu-personal-site.netlify.app/',
     },
     {
         id: 3,
         image: IMG3,
-        title: 'agagdf ag aga asga a a ag',
-        github: 'https://github.com/nguyenvu1310',
-        demo: 'https://github.com/nguyenvu1310',
+        title: 'A Todo-List application simple developed based on React and deployed on Netlify.',
+        github: 'https://github.com/NguyenVu1310/todoList-react',
+        demo: 'https://nguyenvu-todo-list.netlify.app/',
     },
     {
         id: 4,
         image: IMG4,
-        title: 'agagdf ag aga asga a a ag',
-        github: 'https://github.com/nguyenvu1310',
-        demo: 'https://github.com/nguyenvu1310',
+        title: 'A graduation project was done by my team. A website scans malicious content in URLs and blocks sites on blacklists.',
+        github: 'https://github.com/NguyenVu1310/threeblock',
+        demo: 'https://3block.systems/',
     },
 ]
 

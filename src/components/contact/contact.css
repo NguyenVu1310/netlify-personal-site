@@ -33,7 +33,8 @@
 .contact__option a {
     margin-top: 0.7rem;
     display: inline-block;
-    font-size: 0.8rem;
+    font-size: 1rem;
+    color: #4a3f42f2;
 }
 
 /*================== form ============= */
